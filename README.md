@@ -1,5 +1,5 @@
 # aakarshit070-ME_QTRIPDYNAMIC
-(Live)[https://qtrip-dynamic-aakarshit.netlify.app/]
+[Live](https://qtrip-dynamic-aakarshit.netlify.app/)
 Welcome to QTrip Dynamic! Take QTrip from being a static travel site built using HTML/CSS and make it dynamic using JavaScript. 
 
 The site display cities, adventures and their details, allowing users to make reservations for the adventures. QTrip website will have these 4 pages
